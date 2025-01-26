@@ -14,7 +14,7 @@ void Float1(){
     for(x5y5<;-;>y5x5)
     for(x5z5<;-;>z5x5)
     while(x5 % y5 % z5);
-        goto Float
+        goto Float;
 }
 void Float2(){
      Float x6,y6,z6;
@@ -31,7 +31,7 @@ void Float2(){
     for(y6z6<;-;>y6z6)
     for(y6z6<;-;>z6y6)
     while(x6 % y6 % z6)
-        goto Float 
+        goto Float;
 }
 void Float3(){
     char t1, t2, t3, t4;
