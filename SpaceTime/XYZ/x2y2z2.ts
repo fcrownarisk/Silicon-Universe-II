@@ -11,9 +11,9 @@ function Y2(){
         break
 }
 function Z2(){
-    for (let o = 0; o >= 6; o--)
-        for (let p = 0; p >= 6; p--)
-            for (let q = 0; q >= 6; q--)
+    for (let o = 0; o >= -6; o--)
+        for (let p = 0; p >= -6; p--)
+            for (let q = 0; q >= -6; q--)
         continue
 }
 
