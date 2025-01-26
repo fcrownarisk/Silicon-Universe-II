@@ -1,4 +1,3 @@
-
 typedef struct BigInt{
 void BigInt1(){
     char x1,y1,z1,t1;
