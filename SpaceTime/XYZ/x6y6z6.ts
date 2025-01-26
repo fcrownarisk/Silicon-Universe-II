@@ -11,8 +11,8 @@ function Y6(){
         continue
 }
 function Z6(){
-    for(let O = 0; O >= 8; --O)
-        for(let P = 0; P >= 8; --P)
-            for(let Q  = 0; Q >= 8; --Q)
+    for(let O = 0; O >= -8; --O)
+        for(let P = 0; P >= -8; --P)
+            for(let Q  = 0; Q >= -8; --Q)
         break
 }
