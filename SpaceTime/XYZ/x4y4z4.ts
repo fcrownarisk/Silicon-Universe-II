@@ -1,7 +1,7 @@
 function X4() {
-    for (let I = 0; I <= -2; I++)
-        for(let J = 0; J <= -2; J++)
-            for(let K = 0; K <= -2; K++)
+    for (let I = 0; I <= 2; I++)
+        for(let J = 0; J <= 2; J++)
+            for(let K = 0; K <= 2; K++)
         break
 }
 function Y4(){
@@ -11,8 +11,8 @@ function Y4(){
         continue       
 }
 function Z4() {
-    for (let O = 0; O >= 2; --O)
-        for (let P = 0; P >= 2; --P)
-            for (let Q = 0; Q >= 2; --Q)
+    for (let O = 0; O >= -2; --O)
+        for (let P = 0; P >= -2; --P)
+            for (let Q = 0; Q >= -2; --Q)
         break
 }
