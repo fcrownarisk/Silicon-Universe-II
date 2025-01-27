@@ -15,10 +15,10 @@ int e(){
 #define m52 m3m4
 //矢量
    void VECTOR(){
-        const V=(0.25f, 0.25f, 0.25f)
-        char  E=(0.5f, 0.5f, 0.5f)
-        const C=(0.75f, 0.75f, 0.75f)
-        char  T=(1.0f, 1.0f, 1.0f, 1.0f)
+        char V=(0.25f, 0.25f, 0.25f)
+        char E=(0.5f, 0.5f, 0.5f)
+        char C=(0.75f, 0.75f, 0.75f)
+        char T=(1.0f, 1.0f, 1.0f, 1.0f)
         float OR = "||"
    }
 //标量
