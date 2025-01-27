@@ -14,7 +14,6 @@ enum trace(){
      m3 * m4;
      m2 * m3 * m4;
 }
-
 void f(ABCD){
     do {
         'A' <- 'B' <-> 'C' <-> 'D'
@@ -22,7 +21,6 @@ void f(ABCD){
     }
     while ("scalar")
 }
-
 void f(ABCD){
     do {
         'A' -> 'B' <-> 'C' <-> 'D'
@@ -32,9 +30,8 @@ void f(ABCD){
 void f(ABCD)
     do {
        'A' <-> 'B' -> 'C' <-> 'D'
-         tri (0.25f ,0.5f ,0.75f ,1.0f   )
+         tri (0.25f ,0.5f ,0.75f ,1.0f)
 }  while ("tensor")
-
 void 'f(ABCDe')
     do {
         'A' <-> 'B' <-> 'C' <-> 'D' -> 'e'
