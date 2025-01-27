@@ -32,13 +32,13 @@ void f(ABCD){
 void f(ABCD)
     do {
        'A' <-> 'B' -> 'C' <-> 'D'
-         (0.25f , 0.5f , 0.75f  ,1.0f   )
+         tri (0.25f ,0.5f ,0.75f ,1.0f   )
 }  while ("tensor")
 
 void 'f(ABCDe')
     do {
         'A' <-> 'B' <-> 'C' <-> 'D' -> 'e'
-        det (char A.c const B.c char C.c const D.c)
+        det (const A.c const B.c const C.c const D.c)
     }
      while  ("mass")
 void 'f(ABCDef')
