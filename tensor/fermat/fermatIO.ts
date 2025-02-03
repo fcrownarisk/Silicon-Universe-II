@@ -1,6 +1,6 @@
 import './tensor/innerTensor'
 import './tensor/outerTensor'
-import './tensor/inoutTensor'
+import './tensor/InoutTensor'
 import './tensor/OutInTensor'
 import './tensor/AntiInoutTensor'
 import './tensor/AntiOutInTensor'
