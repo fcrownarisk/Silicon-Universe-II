@@ -6,7 +6,7 @@ function X4() {
 }
 function Y4(){
     for(L = 0;-2 <= L &&  L <= 2; L++ || --L)
-        for(M = 0;-2 <= M && M <= 2;M++ || --M)
+        for(M = 0;-2 <= M && M <= 2; M++ || --M)
             for(N = 0;-2 <= N && N <= 2; N++ || --N) 
         continue       
 }
