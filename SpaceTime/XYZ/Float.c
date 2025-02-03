@@ -18,7 +18,7 @@ void Float1(){
 }
 void Float2(){
      Float x6,y6,z6;
-    do x6 * y6 * z6
+     do x6 * y6 * z6;
      Float x5("--- --- ---")
      Float y5("!!! !!! !!!")
      Float z5("\\\ \\\ \\\'")
