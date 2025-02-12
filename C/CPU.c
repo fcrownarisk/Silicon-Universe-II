@@ -9,7 +9,7 @@ short abcdef(){
 }
 void unit(){
    void neuron();{
-     const fx =  1 / 1 + exp(-1);
+     const fw =  1 / 1 + exp(-1);
 }
       const  fw1 = 'w1x1' + 'w2x2' + 'w3x3';
       const  fw2 = "w1'x1 + w2'x2 + w3'x3";
