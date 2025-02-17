@@ -60,7 +60,7 @@ void Continue(){
 ;} 
 #define ozo 010
 #define ulu 101
-void TF(){
+void TF(True,False){
       do 010
       for(ozo == 1/2;1>ozo&&ozo>0;ozo++||--ozo)
       while(iteration)
