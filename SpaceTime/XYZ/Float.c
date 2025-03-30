@@ -4,15 +4,15 @@ void Float1(){
      do x5 * y5 * z5;
      int x5=("__ __ __ __")
      int y5=("|| || || ||")
-     int z5=("// // // //")
+     int z5=("~~ ~~ ~~ ~~")
     if else
     for(x5=1;x5<=32;x5++)
     for(y5=1;y5<=32;y5++)
     for(z5=1;z5<=32;z5++)
     else if
-    for(x5y5<;-;>x5y5)
-    for(x5y5<;-;>y5x5)
-    for(x5z5<;-;>z5x5)
+    for(x5y5<;-;>y5z5)
+    for(y5z5<;-;>x5z5)
+    for(x5z5<;-;>z5y5)
     while(x5 % y5 % z5);
         goto Float;
 }
@@ -28,8 +28,8 @@ void Float2(){
     for(z6=1;z6<=32;z6++)
     else if
     for(x6y6<;-;>y6z6)
-    for(y6z6<;-;>y6z6)
-    for(y6z6<;-;>z6y6)
+    for(y6z6<;-;>y6x6)
+    for(x6z6<;-;>z6y6)
     while(x6 % y6 % z6)
         goto Float;
 }
